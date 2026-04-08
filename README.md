@@ -1,9 +1,9 @@
 # TFG-Signify
 Automated reporting and predictive analytics system for project-based decision-making using SAP Deepdive reports, Power BI and Machine Learning.
-# Automating Reporting and Visual Analytics for Project-Based Decision-Making
+# An Integrated SAP–Power BI–ML Framework for Financial Risk Detection in Industrial Project Management
 
 **Author:** Carlos Junquera Valdivia  
-**Institution:** IE University — Bachelor in Data Business Analytics (DBA)  
+**Institution:** IE University — Dual Bachelor of Business Administration & Data and Business Analytics
 **Company:** Signify EMEA  
 **Date:** May 2026
 
@@ -69,4 +69,4 @@ All data used in this project is proprietary to Signify EMEA and cannot be share
 ## Contact
 
 Carlos Junquera Valdivia  
-IE University — Bachelor in Data Business Analytics
+IE University — Dual Bachelor of Business Administration & Data and Business Analytics
